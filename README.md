@@ -30,7 +30,7 @@ Also, using a t-test, we were able to confirm that the crptocurrencies (BTC and 
 
 ##### Conclusion
 ***
-We were able to conclude that there is a positive correlation between crpytocurrency prices and stock prices of processor comapnies. This implies that when the prices of crpytocurrencies increase, we can expect the stock prices of processor companies to increase as well. It is important to note that Correlation does not equal Causation.
+We were able to conclude that there is a positive correlation between cryptocurrency prices and stock prices of processor comapnies. This implies that when the prices of crpytocurrencies increase, we can expect the stock prices of processor companies to increase as well. It is important to note that Correlation does not equal Causation.
 
 ##### Contributors
 ***
