@@ -15,7 +15,7 @@ Cryptocurrencies (BTC and ETH) affect stock prices of Processor Companies (AMD a
 
 ##### Results
 ***
-We found a strong correlation between the cryptocurrencies and the stocks
+We found a strong correlation between the cryptocurrencies and the stocks (r ranges from -1 to 1, where a |r| > 0.5 can be considered a strong correlation)
 * BTC and AMD: r=0.68
 * BTC and NVDA: r=0.88
 * BTC and ETH: r=0.94
@@ -30,7 +30,7 @@ Also, using a t-test, we were able to confirm that the crptocurrencies (BTC and 
 
 ##### Conclusion
 ***
-We were able to conclude that there is a positive correlation between cryptocurrency prices and stock prices of processor comapnies. This implies that when the prices of cryptocurrencies increase, we can expect the stock prices of processor companies to increase as well. It is important to note that Correlation does not equal Causation.
+We were able to conclude that there is a positive correlation between cryptocurrency prices and stock prices of processor companies. This implies that when the prices of cryptocurrencies increase, we can expect the stock prices of processor companies to increase as well. It is important to note that Correlation does not equal Causation.
 
 ##### Contributors
 ***
