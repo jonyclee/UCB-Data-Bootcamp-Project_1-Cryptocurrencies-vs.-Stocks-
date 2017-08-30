@@ -2,9 +2,9 @@
 
 ##### Hypothesis
 ***
-Crpytocurrencies (BTC and ETH) affect stock prices of Processor Comapnies (AMD and NVDA)
+Cryptocurrencies (BTC and ETH) affect stock prices of Processor Companies (AMD and NVDA)
 
-##### Basic Price Information (01/01/2016 - 08/25/2017)
+##### Basic Price Information (01/04/2016 - 08/25/2017)
 ***
 * BTC (mean=1088.73 , sd=884.57)
 * ETH (mean=56.74 , sd=94.60)
@@ -15,7 +15,7 @@ Crpytocurrencies (BTC and ETH) affect stock prices of Processor Comapnies (AMD a
 
 ##### Results
 ***
-We found a strong corrleation between the crpytocurrencies and the stocks
+We found a strong correlation between the cryptocurrencies and the stocks
 * BTC and AMD: r=0.68
 * BTC and NVDA: r=0.88
 * BTC and ETH: r=0.94
@@ -30,7 +30,7 @@ Also, using a t-test, we were able to confirm that the crptocurrencies (BTC and 
 
 ##### Conclusion
 ***
-We were able to conclude that there is a positive correlation between cryptocurrency prices and stock prices of processor comapnies. This implies that when the prices of crpytocurrencies increase, we can expect the stock prices of processor companies to increase as well. It is important to note that Correlation does not equal Causation.
+We were able to conclude that there is a positive correlation between cryptocurrency prices and stock prices of processor comapnies. This implies that when the prices of cryptocurrencies increase, we can expect the stock prices of processor companies to increase as well. It is important to note that Correlation does not equal Causation.
 
 ##### Contributors
 ***
