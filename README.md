@@ -20,6 +20,8 @@ We found a strong corrleation between the crpytocurrencies and the stocks
 * ETH and NVDA: r=0.79
 * AMD and NVDA: r=0.91
 
+![Correlation Matrx](Correlation_matrix.png)
+
 Also, using a t-test, we were able to confirm that the crptocurrencies (BTC and ETH) are significantly different from each other.
-* t(414)=23.63 , p-valueg$\approx$f0
+* t(414)=23.63 , p-value~=0
 
