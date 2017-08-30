@@ -11,7 +11,7 @@ Crpytocurrencies (BTC and ETH) affect stock prices of Processor Comapnies (AMD a
 * AMD (mean=8.15 , sd=4.21)
 * NVDA (mean=82.66 , sd=42.94)
 
-![Prices Info](Image/Prices.png)
+![Prices Info](Images/Prices.png)
 
 ##### Results
 ***
