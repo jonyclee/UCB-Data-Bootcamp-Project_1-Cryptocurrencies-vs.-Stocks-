@@ -35,6 +35,7 @@ We were able to conclude that there is a positive correlation between crpytocurr
 ##### Contributors
 ***
 Jonathan Lee [GitHub](https://github.com/jonyclee)
+
 Johnny Li [GitHub](https://github.com/johnnyli93)
 
 ##### Technologies Used:
