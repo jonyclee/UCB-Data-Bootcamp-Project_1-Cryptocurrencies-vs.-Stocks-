@@ -37,6 +37,10 @@ We were able to conclude that there is a positive correlation between cryptocurr
 Jonathan Lee [GitHub](https://github.com/jonyclee) <br />
 Johnny Li [GitHub](https://github.com/johnnyli93)
 
+##### Slideshow
+***
+[Slides](https://drive.google.com/file/d/0B5oiy2znhCwfQTBiMTRWR3plaUk/view?usp=sharing)
+
 ##### Technologies Used:
 ***
 * Python notebook
